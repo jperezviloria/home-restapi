@@ -15,6 +15,6 @@ public class Pet {
     @Id
     private String idPet;
     private String namePet;
-    private String creedPet;
+    private String breedPet;
 
 }
